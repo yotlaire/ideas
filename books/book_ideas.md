@@ -1,3 +1,4 @@
+
 # Ideas for new book projects
 
 - [ ] Hotubbing by tutorials
@@ -8,3 +9,4 @@
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
 - [ ] Mastering git
+- [ ] Care and feeding of developers
